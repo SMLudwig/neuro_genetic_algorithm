@@ -1,6 +1,8 @@
 # Neuromorphic Genetic Algorithm
 University course project on developing a spiking neural network implementation of a genetic algorithm.
 
+Published here: https://link.springer.com/chapter/10.1007/978-3-030-76640-5_6
+
 Authors: Siegfried Ludwig, Joeri Hartjes, Bram Pol, Gabriela Rivas
 
 Center for Artificial Intelligence, Radboud University Nijmegen, The Netherlands
